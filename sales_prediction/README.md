@@ -75,7 +75,7 @@ Based on your execution:
 - **MSE:** `2.9077`  
 - **R² Score:** `0.9059`  
 
-### ✔ The model explains ~90.5% of the variance in sales.  
+###  The model explains ~90.5% of the variance in sales.  
 This is an **excellent** result for this dataset.
 
 
