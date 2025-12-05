@@ -79,7 +79,7 @@ Based on your execution:
 This is an **excellent** result for this dataset.
 
 
-## 🔍 Sample Prediction  
+##  Sample Prediction  
 
 ### Input: [100, 25, 10]
 
