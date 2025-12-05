@@ -84,5 +84,5 @@ For passenger with:
 ---
 
 ## Intern  
-Renuka Singh 
+Renuka 
 CODSOFT Data Science Internship – 2025  
