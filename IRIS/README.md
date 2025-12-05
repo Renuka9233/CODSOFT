@@ -59,7 +59,7 @@ The model classifies iris flower species with excellent performance.
 
 
 
-## 🔍 Sample Prediction  
+##  Sample Prediction  
 
 ## Input:
 [5.8, 2.7, 5.1, 1.9]
@@ -81,6 +81,6 @@ array([2])
 
 
 ## Intern  
-Renuka Singh  
+Renuka   
 CODSOFT Data Science Internship – 2025
 
